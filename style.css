@@ -1,0 +1,42 @@
+.top-right-nav{
+    float: right;
+}
+.top-right-nav a{
+    text-decoration: none;
+    color: black;
+    margin: 20px ;
+}
+.name-highlights{
+    color: blue;
+}
+/* .img1-size{
+    height: 550px;
+    width: 550px;
+} */
+.header-bg-color{
+    background-color: lightblue;
+}
+.jacket-bg-color{
+    background-color: rgb(241, 241, 241);
+    padding: 40px;
+    border-radius: 20px;
+}
+.header-img-adjust{
+    height: 550px;
+    width: 550px;
+}
+#header-margin{
+    margin-top: 50px;
+}
+.card-size-adjust{
+    width: 20em;
+    padding: 30px;
+}
+h2{
+    color: limegreen;
+}
+.icon-size{
+    width: 5em;
+    margin: 1em 0 0 4em;
+}
+}
